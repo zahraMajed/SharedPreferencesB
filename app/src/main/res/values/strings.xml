@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences (B)</string>
+    <!--Step 2: Add the following line to our strings.xml file. (package name)-->
+    <string name="preference_file_key">com.example.sharedpreferencesb.PREFERENCE_FILE_KEY</string>
+</resources>
